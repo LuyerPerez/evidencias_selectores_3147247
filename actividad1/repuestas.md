@@ -27,3 +27,4 @@
 ## Pregunta 6:
 - ¿Cual es el hermano adyacente del primer **li** dentro del **ul**
 - **RTA/** _El hermano del primer elemento es: Elemento 2: grey_
+
